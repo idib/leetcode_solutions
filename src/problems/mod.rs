@@ -1,0 +1,15 @@
+mod problem_1642;
+mod problem_1780;
+mod problem_1827;
+mod problem_1557;
+mod problem_1869;
+mod problem_2607;
+mod problem_66;
+mod problem_1115;
+mod problem_2194;
+mod problem_3243;
+mod problem_188;
+mod problem_2500;
+mod problem_1796;
+mod problem_53;
+mod problem_898;
