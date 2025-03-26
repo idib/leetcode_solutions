@@ -19,3 +19,4 @@ mod problem_2951;
 mod problem_506;
 mod problem_3432;
 mod problem_274;
+mod problem_1931;
