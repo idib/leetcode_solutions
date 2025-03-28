@@ -1,6 +1,4 @@
-use log::log;
 use std::sync::{Condvar, Mutex};
-
 pub struct FooBar {
     n: usize,
     mu: Mutex<bool>,
