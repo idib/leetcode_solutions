@@ -1,5 +1,3 @@
-use std::cmp::Ordering;
-
 pub struct Solution;
 
 impl Solution {
