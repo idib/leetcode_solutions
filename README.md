@@ -63,6 +63,7 @@ cargo test
 | 506    | Relative Ranks                                   | Easy       | ✅      | 0 ms / 100.00%  | 2.54 MB / 76.00%  |
 | 891    | Sum of Subsequence Widths                        | Hard       | ✅      | 15 ms / 50.00%  | 3.35 MB / 100.00% |
 | 898    | Bitwise ORs of Subarrays                         | Medium     | ✅      | 166 ms / 50.00% | 7.22 MB / 50.00%  |
+| 961    | N-Repeated Element in Size 2N Array              | Easy       | ✅      | 0 ms / 100.00%  | 2.34 MB / 85.71%  |
 | 1047   | Remove All Adjacent Duplicates In String         | Easy       | ✅      | 1 ms / 48.00%   | 2.36 MB / 88.00%  |
 | 1115 * | Print FooBar Alternately                         | Medium     | ✅      | -               | -                 |
 | 1137   | N-th Tribonacci Number                           | Easy       | ✅      | 0 ms / 100.00%  | 2.14 MB / 81.18%  |
