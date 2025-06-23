@@ -52,6 +52,7 @@ cargo test
 
 | #      | Title                                                           | Difficulty | Status | Time (ms/%)     | Memory (mb/%)     |
 |--------|-----------------------------------------------------------------|------------|--------|-----------------|-------------------|
+| 17     | Letter Combinations of a Phone Number                           | Medium     | ✅      | 0 ms / 100.00%  | 2.20 MB / 93.13%  |
 | 53     | Maximum Subarray                                                | Medium     | ✅      | 0 ms / 100.00%  | 3.34 MB / 48.31%  |
 | 66     | Plus One                                                        | Easy       | ✅      | 0 ms /  100.00% | 2.34 MB  / 6.46%  |
 | 188    | Best Time to Buy and Sell Stock IV                              | Hard       | ❌      | -               | -                 |
